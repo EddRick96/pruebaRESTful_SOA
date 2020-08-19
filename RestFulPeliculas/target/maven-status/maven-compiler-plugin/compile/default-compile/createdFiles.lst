@@ -1,0 +1,7 @@
+com\resfull\session\AbstractFacade.class
+com\restfull\service\ClsPeliculas.class
+com\restfull\service\PeliculasREST.class
+com\restfull\entidades\Peliculas_.class
+com\restfull\entidades\Peliculas.class
+com\restfull\service\ApplicationConfig.class
+com\resfull\session\PeliculasFacade.class
